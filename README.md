@@ -7,4 +7,4 @@ Ce phénomène est appelé auto-catalyse et se traduit par des fluctuations pér
 
 
 Dans ce projet, nous proposons d’illustrer ce phénomène à travers le modèle simple du Brusselator,
-où les concentrations x et y de deux espèces chimiques evoluent au cours du temps suivant un systeme d'equations différentielles.
+où les concentrations x et y de deux espèces chimiques evoluent au cours du temps suivant un systeme d'équations différentielles.
