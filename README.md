@@ -1,5 +1,5 @@
 # Reactions_chimiques_oscillantes
- Développement de méthodes itératives de résolution de systèmes non linéaires pour illustrer le phénomene chimique d'auto-catalyse en python (via Jupyter). 
+ Développement de méthodes itératives de résolution de systèmes non linéaires pour illustrer le phénomene chimique d'auto-catalyse en python (via Jupyter NoteBook). 
  
 L'étude des processus chimiques complexes implique souvent des réactions successives. 
 Il peut arriver que certains composants agissant comme réactifs à une étape donnée deviennent également des produits à une étape ultérieure. 
